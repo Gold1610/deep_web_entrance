@@ -15,7 +15,7 @@ function loadingVisible() {
         'overflow': 'visible',
         'height': '100%'
     });
-    sound.play();
+    
 }
 
 /* Scroll Title Begin */
